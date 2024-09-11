@@ -1,0 +1,49 @@
+h1{
+    background-color: red;
+    margin: 10px;
+    height: 100px;
+    width: 700px;
+
+}
+h2{
+    background-color: red;
+    margin: 10px;
+    height: 80px;
+    width: 600px;
+    
+}
+h3{
+    background-color: red;
+    margin: 10px;
+    height: 70px;
+    width: 500px;
+    
+}
+
+h4{
+    background-color: red;
+    margin: 10px;
+    height: 60px;
+    width: 400px;
+    
+}
+
+h5{
+    background-color: red;
+    margin: 10px;
+    height: 50px;
+    width: 300px;
+    
+}
+
+
+h6{
+    background-color: red;
+    margin: 10px;
+    height: 40px;
+    width: 200px;
+    
+}
+body{
+    background-color: aqua;
+}
